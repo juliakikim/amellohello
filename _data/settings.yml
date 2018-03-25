@@ -45,7 +45,8 @@ about: >
 
 contact: >
   # Contact
-
+  
+  You may contact me [through my email](mailto:admin@amellohello.com)
   
   
 #-------------------------------
@@ -59,10 +60,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
 - {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
