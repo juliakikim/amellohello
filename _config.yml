@@ -12,8 +12,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Portfolio Jekyll Theme"
-description:	       "Powered by Jekyll and GitHub Pages"
-author:              "Paul Le"
+title:		           "A Hello Mello"
+description:	       "A Personal Blog"
+author:              "J"
 
 theme: jekyll-theme-cayman
