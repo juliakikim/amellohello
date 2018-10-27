@@ -5,4 +5,4 @@ title: 'Travel'
 
 Traveling has been part of my life since I was young.
 
-{% image="projects/travel/plane.jpg" %}
+{% image.html image="projects/travel/plane.jpg" %}
