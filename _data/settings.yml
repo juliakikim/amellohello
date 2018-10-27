@@ -53,8 +53,8 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'AMH Music', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'AMH Travel', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'AMH Music', folder: 'music', file: 'projects/music.html'}
+- {name: 'AMH Travel', folder: 'travel', file: 'projects/travel.html'}
 
 #-------------------------------
 # Contact Section
